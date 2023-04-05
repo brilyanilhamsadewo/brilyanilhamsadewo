@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brilyan Ilham Sadewo</h1>
 <h3 align="center">A passionate Data Analyst from Indonesia</h3>
 
-- 🌱 I’m currently learning **Python and Tableau**
+- 🌱 I’m currently learning **VueJs, Python, and Tableau**
 
 - 📫 How to reach me **sadewobrilyanilham@gmail.com**
 
