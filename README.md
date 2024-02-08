@@ -17,6 +17,9 @@
 Nuxt 3 + TailwindCSS Starter Template
 https://github.com/brilyanilhamsadewo/Nuxt3-Tailwind
 
+Nuxt 3 + TailwindCSS + PrimeVue Starter Template
+https://github.com/brilyanilhamsadewo/nuxt-primevue
+
 NextJs + TailwindCSS Starter Template
 https://github.com/brilyanilhamsadewo/next-tailwind
 
